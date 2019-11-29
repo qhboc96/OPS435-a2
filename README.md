@@ -1,1 +1,2 @@
-# OPS435-a2
+# OPS435_a2
+OPS435 assignment 2
